@@ -1,2 +1,6 @@
-package org.nelioalves.model;public interface TaxService {
+package org.nelioalves.model.services;
+
+public interface TaxService {
+
+    double tax(double amount);
 }
