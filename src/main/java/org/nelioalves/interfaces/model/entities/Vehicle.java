@@ -1,4 +1,4 @@
-package org.nelioalves.model.entities;
+package org.nelioalves.interfaces.model.entities;
 
 public class Vehicle {
 

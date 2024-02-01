@@ -1,4 +1,4 @@
-package org.nelioalves.model.services;
+package org.nelioalves.interfaces.model.services;
 
 public interface TaxService {
 

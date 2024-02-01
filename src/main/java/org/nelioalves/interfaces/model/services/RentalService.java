@@ -1,7 +1,7 @@
-package org.nelioalves.model.services;
+package org.nelioalves.interfaces.model.services;
 
-import org.nelioalves.model.entities.CarRental;
-import org.nelioalves.model.entities.Invoice;
+import org.nelioalves.interfaces.model.entities.CarRental;
+import org.nelioalves.interfaces.model.entities.Invoice;
 
 import java.time.Duration;
 

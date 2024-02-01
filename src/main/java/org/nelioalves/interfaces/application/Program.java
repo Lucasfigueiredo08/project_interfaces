@@ -1,9 +1,9 @@
-package org.nelioalves.application;
+package org.nelioalves.interfaces.application;
 
-import org.nelioalves.model.entities.CarRental;
-import org.nelioalves.model.entities.Vehicle;
-import org.nelioalves.model.services.BrazilTaxService;
-import org.nelioalves.model.services.RentalService;
+import org.nelioalves.interfaces.model.entities.CarRental;
+import org.nelioalves.interfaces.model.entities.Vehicle;
+import org.nelioalves.interfaces.model.services.BrazilTaxService;
+import org.nelioalves.interfaces.model.services.RentalService;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
